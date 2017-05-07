@@ -7,4 +7,4 @@ This script connects to Udemy API which is the Application Programming Interface
 Which is the impact of digitization in your industry? Run Google_ICA.ipynb to find out!
 This script connect to Google API Console and returns you the number of hits for any list of keywords and websites so that industry wide as well as company level insights can be derived. 
 
-For additional details, please refer to my blog post: 
+For additional details, please refer to my blog post: https://techieladyblog.wordpress.com/2017/05/07/digitalization-in-the-professional-services-industry/
